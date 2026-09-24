@@ -167,11 +167,8 @@ This project is for educational and research purposes.
 
 ## Author
 
-Your Name / GitHub Username
+Om Rai / omrai2505-ind
 
-## GitHub Repository
-
-You can push this project to GitHub with:
 
 ```bash
 git init
